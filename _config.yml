@@ -130,7 +130,10 @@ author:
 
 # Site Footer
 footer:
-  links:
+  links: LinkedIn_icon.svg
+    - label: "LinkedIn_icon.svg"
+      icon: https://zacharasiewicz.at/assets/images/LinkedIn_icon.svg
+      url: https://www.linkedin.com/in/andreas-zacharasiewicz-a4221b277/
     - # label: "Bluesky"
       # icon: https://demokratie.at/assets/images/2024-11-20-bluesky.svg
       # url: https://bsky.app/profile/demokratie.at
