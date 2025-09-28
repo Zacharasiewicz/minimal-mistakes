@@ -130,7 +130,7 @@ author:
 
 # Site Footer
 footer:
-  links: LinkedIn_icon.svg
+  links:
     - label: "LinkedIn_icon.svg"
       icon: https://zacharasiewicz.at/assets/images/LinkedIn_icon.svg
       url: https://www.linkedin.com/in/andreas-zacharasiewicz-a4221b277/
